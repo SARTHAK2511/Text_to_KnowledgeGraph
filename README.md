@@ -11,7 +11,6 @@ A knowledge graph, also known as a semantic network, represents a network of rea
 5. Populate nodes (concepts) and edges (relations).
 6. Visualise and Query.
 
-Step 6 is purely optional, but it has certain artistic gratification associated with it. Network graphs are beautiful objects (just look at the banner image above, isn't it beautiful?). Fortunately, there are a good number of Python libraries available for generating graph visualisations.
 
 ## Why Graph?
 Once the Knowledge Graph (KG) is built, we can use it for many purposes. We can run graph algorithms and calculate centralities of any node, to understand how important a concept (node) is to this body of work. We can calculate communities to bunch the concepts together to better analyse the text. We can understand the connectedness between seemingly disconnected concepts. The best of all, we can achieve **Graph Retrieval Augmented Generation (GRAG)** and chat with our text in a much more profound way using Graph as a retriever. This is a new and improved version of **Retrieval Augmented Generation (RAG)** where we use a vector database as a retriever to chat with our documents.
