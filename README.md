@@ -28,6 +28,7 @@ I assume that the concepts that are mentioned in the vicinity of each other are 
 Once the nodes (concepts) and the edges (text chunks) are calculated, it is easy to create a graph out of them using the libraries mentioned here. All the components I used here are set up locally, so this project can be run very easily on a personal machine. I have adopted a no-GPT approach here to keep things economical. I am using the fantastic Mistral 7B openorca instruct, which crushes this use case wonderfully. The model can be set up locally using Ollama so generating the KG is basically free (No calls to GPT).
 
 <img src="./assets/Graph.png"/>
+<img src="./assets/Ui.png"/>
 
 1. Split the corpus of text into chunks. Assign a chunk_id to each of these chunks.
 2. For every text chunk extract concepts and their semantic relationships using an LLM. Let's assign this relation a weightage of W1. There can be multiple relationships between the same pair of concepts. Every such relation is an edge between a pair of concepts.
