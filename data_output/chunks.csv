@@ -1,0 +1,57 @@
+text|source|page|chunk_id
+"SARTHAK BHATORE
++916263581769 •Sarthakbhatore637@gmail.com •Linkedin •Github •Kaggle •
+EDUCATION
+M.tech (Dual Degree), Artificial Intelligence and Data Science Graduating - June 2025
+Devi Ahilya University, Indore, MP
+School of Data Science And Forecasting grade=8.82 CGPA (currently)
+WORK EXPERIENCE
+Fibonacci Finance, Jr Data Scientist , U.K. (Remote) Nov 2023 - Present
+• Developed and deployed machine learning models using TensorFlow and Recurrent Neural Networks (RNNs) for
+time series analysis, enhancing prediction accuracy and statistical analysis.
+• Designed and implemented a robust data pipeline for seamless data retrieval, ETL (Extract, Transform, Load)
+processes, and integration into a high-performance time series database (InfluxDB) on a Linux platform.
+• Integrated gRPC for efficient, low-latency communication between microservices in the data pipeline, ensuring
+high performance and scalability.
+• Utilized Python, TensorFlow, SQL, and Linux for the development and deployment of machine learning models
+and data processing pipelines.
+Careervira, Data Analyst Intern ,1 Year Nov 2022 - Nov 2023
+• Developed and deployed an NLP model with a remarkable 92 percent accuracy for classifying unlabelled questions
+datasets into predefined categories.
+• Generated automated solution to calculate similarity score between two articles and do further processing on
+results.
+• Designed and implemented a robust custom data validation solution for a dataset consisting of 50,000 records,"|C:\Users\Sarth\AppData\Local\Temp\gradio\5f81e9916b120ff7da238557ed7e8c1b73c0b772\Sarthak_CV.pdf|0|f1d844569b8b41f19f20d6e9ab03d6ca
+"results.
+• Designed and implemented a robust custom data validation solution for a dataset consisting of 50,000 records,
+ensuring data accuracy and integrity with an exceptional validation accuracy rate of 98 percent.
+ACADEMIC PROJECTS
+Medical Imaging Cell Segmentation
+Developed a project dedicated to medical imaging focusing on cell segmentation in tissue images
+• Developed a cell segmentation project for medical imaging.Utilized the U-Net architecture, featuring an encoder
+and decoder.
+• Implemented precise preprocessing for RGB and black-and-white images.Employed a MobileNetV2 encoder and
+a pix2pix-inspired decoder.
+Solar Panel Dust Detection
+Utilized deep learning to enhance solar panel maintenance efficiency by automating dust detection
+• Developed custom VGG16 CNN model for dust detection on solar panels.
+• Trained model using TensorFlow and Keras on a dataset containing clean and dusty solar panel images.
+• Aimed to automate detection of dust accumulation, facilitating timely cleaning and maintenance.
+Fine-tuning pythia-70m on LaminiDocs Dataset
+Fine-tuned a large language model for document-related tasks
+• Utilized Google Colab’s powerful GPU resources to fine-tune the EleutherAI/pythia-70m model.
+• Adapted the model for document-related tasks by fine-tuning it on the LaminiDocs dataset.
+• Implemented advanced training techniques to enhance the model’s performance and document understanding."|C:\Users\Sarth\AppData\Local\Temp\gradio\5f81e9916b120ff7da238557ed7e8c1b73c0b772\Sarthak_CV.pdf|0|49cd364720634a24812b357f5f8cde22
+"• Implemented advanced training techniques to enhance the model’s performance and document understanding.
+• Achieved improved results in document classification, generation, and other document-related tasks.
+TECHNICAL SKILLS
+Data Science Machine Learning,Deep Learning, NLP , Tensorflow ,Langchain
+Databases MYSQL, MongoDB , InfluxDB
+Programming languages Python,C++, R , SQL
+Version Control Git"|C:\Users\Sarth\AppData\Local\Temp\gradio\5f81e9916b120ff7da238557ed7e8c1b73c0b772\Sarthak_CV.pdf|0|81e83ba7130c4cdf87a98be6e91ca60e
+"Cloud Platform Azure Fundamentals ,Google Colab
+Visualization Power Bi , Graffana
+Other Linux , App Script ,Selenium/Scrapy , Finetuning LLMs , Finetuning LLMs
+CERTIFICATIONS
+Microsoft Azure AZ-900,
+Databases and SQL for Data Science with Python,
+Data Analysis Using Python,"|C:\Users\Sarth\AppData\Local\Temp\gradio\5f81e9916b120ff7da238557ed7e8c1b73c0b772\Sarthak_CV.pdf|1|c9bbdfe8c8384297bac1d8bbc42c830a
